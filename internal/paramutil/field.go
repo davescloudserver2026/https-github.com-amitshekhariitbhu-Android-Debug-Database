@@ -1,8 +1,8 @@
 package paramutil
 
 import (
-	"github.com/stainless-sdks/davescloudserver-go/packages/param"
-	"github.com/stainless-sdks/davescloudserver-go/packages/respjson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/param"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/respjson"
 )
 
 func AddrIfPresent[T comparable](v param.Opt[T]) *T {

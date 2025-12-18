@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/davescloudserver-go/internal"
-	"github.com/stainless-sdks/davescloudserver-go/internal/apierror"
-	"github.com/stainless-sdks/davescloudserver-go/internal/apiform"
-	"github.com/stainless-sdks/davescloudserver-go/internal/apiquery"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apierror"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apiform"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {

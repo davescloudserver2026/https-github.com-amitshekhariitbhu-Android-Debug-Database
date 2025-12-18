@@ -2,8 +2,8 @@ package apijson_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/davescloudserver-go/internal/apijson"
-	"github.com/stainless-sdks/davescloudserver-go/packages/respjson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apijson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/respjson"
 	"testing"
 )
 

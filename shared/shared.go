@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/stainless-sdks/davescloudserver-go/internal/apijson"
-	"github.com/stainless-sdks/davescloudserver-go/packages/param"
-	"github.com/stainless-sdks/davescloudserver-go/packages/respjson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apijson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/param"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/respjson"
 )
 
 // aliased to make [param.APIUnion] private when embedding

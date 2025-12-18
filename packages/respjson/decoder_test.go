@@ -3,8 +3,8 @@ package respjson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/davescloudserver-go/internal/apijson"
-	rj "github.com/stainless-sdks/davescloudserver-go/packages/respjson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apijson"
+	rj "github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/respjson"
 	"reflect"
 	"testing"
 )

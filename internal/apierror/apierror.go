@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/stainless-sdks/davescloudserver-go/internal/apijson"
-	"github.com/stainless-sdks/davescloudserver-go/packages/respjson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apijson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/respjson"
 )
 
 // Error represents an error that originates from the API, i.e. when a request is

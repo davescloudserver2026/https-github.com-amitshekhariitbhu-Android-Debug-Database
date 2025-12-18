@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/davescloudserver-go"
-	"github.com/stainless-sdks/davescloudserver-go/internal/testutil"
-	"github.com/stainless-sdks/davescloudserver-go/option"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/testutil"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/option"
 )
 
 func TestUserNewWithOptionalParams(t *testing.T) {
