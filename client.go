@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/stainless-sdks/davescloudserver-go/internal/requestconfig"
-	"github.com/stainless-sdks/davescloudserver-go/option"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/requestconfig"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/option"
 )
 
 // Client creates a struct with services and top level methods that help with

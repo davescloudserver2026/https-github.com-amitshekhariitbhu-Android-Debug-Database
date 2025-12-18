@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/davescloudserver-go/internal/encoding/json/sentinel"
-	"github.com/stainless-sdks/davescloudserver-go/packages/param"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/encoding/json/sentinel"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/param"
 	"reflect"
 	"slices"
 	"testing"

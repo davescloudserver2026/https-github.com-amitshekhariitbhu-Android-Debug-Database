@@ -2,7 +2,7 @@
 package json
 
 import (
-	"github.com/stainless-sdks/davescloudserver-go/internal/encoding/json/shims"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/encoding/json/shims"
 	"reflect"
 	"time"
 )
