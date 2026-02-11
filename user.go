@@ -11,13 +11,13 @@ import (
 	"net/url"
 	"slices"
 
-	"github.com/stainless-sdks/davescloudserver-go/internal/apijson"
-	"github.com/stainless-sdks/davescloudserver-go/internal/apiquery"
-	shimjson "github.com/stainless-sdks/davescloudserver-go/internal/encoding/json"
-	"github.com/stainless-sdks/davescloudserver-go/internal/requestconfig"
-	"github.com/stainless-sdks/davescloudserver-go/option"
-	"github.com/stainless-sdks/davescloudserver-go/packages/param"
-	"github.com/stainless-sdks/davescloudserver-go/packages/respjson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apijson"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apiquery"
+	shimjson "github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/encoding/json"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/requestconfig"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/option"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/param"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/respjson"
 )
 
 // UserService contains methods and other services that help with interacting with

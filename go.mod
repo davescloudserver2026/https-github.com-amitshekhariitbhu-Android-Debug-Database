@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/davescloudserver-go
+module github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database
 
 go 1.22
 

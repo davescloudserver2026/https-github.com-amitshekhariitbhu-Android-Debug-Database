@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	shimjson "github.com/stainless-sdks/davescloudserver-go/internal/encoding/json"
+	shimjson "github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/encoding/json"
 
 	"github.com/tidwall/sjson"
 )
@@ -83,6 +83,9 @@ func MarshalUnion[T ParamStruct](metadata T, variants ...any) ([]byte, error) {
 		}
 	}
 	if nPresent == 0 || presentIdx == -1 {
+		if metadata.null() {
+			return []byte("null"), nil
+		}
 		if ovr, ok := metadata.Overrides(); ok {
 			return shimjson.Marshal(ovr)
 		}

@@ -41,7 +41,7 @@ To use a local version of this library from source in another project, edit the 
 directive. This can be done through the CLI with the following:
 
 ```sh
-$ go mod edit -replace github.com/stainless-sdks/davescloudserver-go=/path/to/davescloudserver-go
+$ go mod edit -replace github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database=/path/to/https-github.com-amitshekhariitbhu-Android-Debug-Database
 ```
 
 ## Running tests

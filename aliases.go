@@ -3,9 +3,9 @@
 package davescloudserver
 
 import (
-	"github.com/stainless-sdks/davescloudserver-go/internal/apierror"
-	"github.com/stainless-sdks/davescloudserver-go/packages/param"
-	"github.com/stainless-sdks/davescloudserver-go/shared"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/internal/apierror"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/packages/param"
+	"github.com/davescloudserver2026/https-github.com-amitshekhariitbhu-Android-Debug-Database/shared"
 )
 
 // aliased to make [param.APIUnion] private when embedding
